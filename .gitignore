@@ -1,0 +1,7 @@
+config.h
+st
+st.o 
+x.o
+st-0.9.tar.gz
+*.orig
+*.rej
